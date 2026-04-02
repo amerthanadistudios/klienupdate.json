@@ -1,1 +1,9 @@
-
+{
+    "name": "Amerthanadi Studios - Client Connector",
+    "slug": "amerthanadi-client",
+    "version": "4.1",
+    "download_url": "https://github.com/username/repo-name/raw/main/amerthanadi-client.zip",
+    "sections": {
+        "description": "Pembaruan otomatis via GitHub untuk sistem Amerthanadi Studios."
+    }
+}
