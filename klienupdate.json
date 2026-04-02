@@ -1,9 +1,9 @@
 {
     "name": "Amerthanadi Studios - Client Connector",
-    "slug": "amerthanadi-client",
+    "slug": "amerthanadi-client/amerthanadi-client.php",
     "version": "4.1",
     "download_url": "https://github.com/amerthanadistudios/klienupdate.json/raw/main/amerthanadi-client.zip",
     "sections": {
-        "description": "Pembaruan otomatis via GitHub untuk sistem Amerthanadi Studios."
+        "description": "Gold Edition Update: Dark Mode UI, Gold Accent, and Performance Fixes."
     }
 }
